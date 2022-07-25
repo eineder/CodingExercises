@@ -12,7 +12,7 @@ while (true)
     var line = await reader.ReadLineAsync();
 
     // Replace this line with putting out the outcome of the validation.
-    Console.WriteLine($"Your password: {line}"); 
+    Console.WriteLine($"You specified this password: '{line}'. Looks good."); 
 
     Console.WriteLine(prompt);
 }

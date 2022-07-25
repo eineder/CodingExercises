@@ -1,0 +1,9 @@
+﻿Our customer tried our solution and now thinks it's necessary to also show an info text
+to the users that explains the current password rules.   
+
+Task:
+* Add a method that returns a string which contains the explanations for of
+    the current password ruels
+* You can use these texts:
+    "The password must have at least 6 characters."
+    "The password must contain at least one number."

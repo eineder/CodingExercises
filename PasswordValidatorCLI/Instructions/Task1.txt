@@ -1,0 +1,15 @@
+﻿Introduction:
+We currently have a customer for whom our team develops an internal web application.
+The application has no access to any kind of identity management system, thus all
+users create an account and authenticate using basic authentication with user name and password.
+
+Today, our customer recognized that currently there is no validation at all for the passwords users specify in our
+application. Users can even specify an empty string as a password and it will be accepted! He asks us
+to create a component for password validation and to provide him with a command line app which he can use to
+test the validation.  
+
+Task:
+Our customer asks us to implement the following:
+* A password must have at least 6 characters
+* A password must contain at least one number
+* The command line tool should tell whether a password that is entered is valid or not

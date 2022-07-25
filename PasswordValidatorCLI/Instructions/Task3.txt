@@ -1,0 +1,8 @@
+﻿We gave our solution to a colleague for code review. Unfortunately, he
+rejects it because it does not follow the "Open-closed principle", as he claims.
+
+Task:
+* What is this "Open-closed principle"?
+* Why does it matter here?
+* Which could be cases where it wouldn't be relevant?
+* Let's dicuss and adjust our solution accordingly!

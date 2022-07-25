@@ -1,0 +1,9 @@
+﻿Our customer reports that now it's even necessary to give feedback to the users
+which of the password rules are violated by the password they try to specify.
+If multiple rules are violated, all validation errors should be shown.
+
+Task:
+* Let's first discuss how we will carry this out
+* Change the password validator according to the new requirement
+* Discuss whether or not the Open-closed principle helped us here and
+    compare it with the initial solution
